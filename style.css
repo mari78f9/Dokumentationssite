@@ -2,10 +2,31 @@ body {
     background-color: coral;
 }
 
+img {
+    width: 100%;
+    border: solid;
+}
+
 h1 {
     font-size: 2rem;
+    margin: 10px;
+    padding: 5px;
+    border: solid;
+    background-color: burlywood;
 }
 
 h2 {
     font-size: 1.5rem;
+    background-color: blanchedalmond;
+    margin: 10px;
+    padding: 5px;
+    border: solid;
+}
+
+h3 {
+    font-size: 1rem;
+    background-color: darkkhaki;
+    margin: 10px;
+    padding: 5px;
+    border: solid;
 }
